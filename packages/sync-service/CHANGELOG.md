@@ -1,5 +1,11 @@
 # @core/sync-service
 
+## 0.4.4
+
+### Patch Changes
+
+- 5c684bd: Add shape filters to Postgres publication to reduce processing load on Electric.
+
 ## 0.4.3
 
 ### Patch Changes
